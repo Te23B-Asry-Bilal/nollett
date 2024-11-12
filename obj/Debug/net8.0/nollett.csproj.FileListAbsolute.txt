@@ -1,0 +1,14 @@
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\bin\Debug\net8.0\nollett.exe
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\bin\Debug\net8.0\nollett.deps.json
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\bin\Debug\net8.0\nollett.runtimeconfig.json
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\bin\Debug\net8.0\nollett.dll
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\bin\Debug\net8.0\nollett.pdb
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\obj\Debug\net8.0\nollett.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\obj\Debug\net8.0\nollett.AssemblyInfoInputs.cache
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\obj\Debug\net8.0\nollett.AssemblyInfo.cs
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\obj\Debug\net8.0\nollett.csproj.CoreCompileInputs.cache
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\obj\Debug\net8.0\nollett.dll
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\obj\Debug\net8.0\refint\nollett.dll
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\obj\Debug\net8.0\nollett.pdb
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\obj\Debug\net8.0\nollett.genruntimeconfig.cache
+c:\Users\bilal.asry\Documents\nasan over E\första\nollett\obj\Debug\net8.0\ref\nollett.dll
