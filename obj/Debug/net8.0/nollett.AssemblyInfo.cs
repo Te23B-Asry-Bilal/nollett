@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nollett")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69c6550d5c74d717b9c5e38cf8007b8800d07c2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("nollett")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nollett")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
